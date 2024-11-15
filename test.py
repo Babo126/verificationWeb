@@ -10,7 +10,7 @@ app.secret_key = secrets.token_hex(16)  # 16 表示生成一個 32 位的十六�
 # Set your LINE channel details
 LINE_CHANNEL_ID = '2006556911'
 LINE_CHANNEL_SECRET = '42eb9b2d38b6ab498ee67d9d6ab35b9a'
-REDIRECT_URI = 'https://dbe6-140-117-177-209.ngrok-free.app/callback'
+REDIRECT_URI = 'https://3ee1-140-117-177-209.ngrok-free.app/callback'
 
 
 # Route to start the login process
